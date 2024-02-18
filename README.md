@@ -2,6 +2,6 @@ Notes Application
 
 Install packages : pip install -r requirements.txt
 
-create a .env file to store mongodb url and jwt secret key
+create a .env file to store MONGODB_URI and JWT_SECRET_KEY values
 
-How to Run - python run.py (running on defalut port 1125)
+How to Run - flask run.py (running on defalut port 1125)
